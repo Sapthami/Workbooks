@@ -1,0 +1,67 @@
+,Race/ Ethnicity,Current Age,"Risk of Being Diagnosed with Cancer,Eventually","Risk of Dying from Cancer,Eventually"
+0,All Races        ,0.0,0.62,0.47
+1,All Races        ,10.0,0.59,0.47
+2,All Races        ,20.0,0.57,0.46
+3,All Races        ,30.0,0.54,0.46
+4,All Races        ,40.0,0.52,0.45
+5,All Races        ,50.0,0.48,0.43
+6,All Races        ,60.0,0.42,0.39
+7,All Races        ,70.0,0.32,0.31
+8,All Races        ,80.0,0.19,0.19
+9,White        ,0.0,0.68,0.51
+10,White        ,10.0,0.65,0.51
+11,White        ,20.0,0.63,0.5
+12,White        ,30.0,0.6,0.5
+13,White        ,40.0,0.57,0.49
+14,White        ,50.0,0.53,0.47
+15,White        ,60.0,0.46,0.42
+16,White        ,70.0,0.35,0.33
+17,White        ,80.0,0.21,0.2
+18,Black        ,0.0,0.34,0.25
+19,Black        ,10.0,0.32,0.25
+20,Black        ,20.0,0.3,0.25
+21,Black        ,30.0,0.29,0.25
+22,Black        ,40.0,0.28,0.24
+23,Black        ,50.0,0.26,0.23
+24,Black        ,60.0,0.22,0.21
+25,Black        ,70.0,0.17,0.17
+26,Black        ,80.0,0.12,0.12
+27,Asian/ Pacific  Islander      ,0.0,0.4,0.28
+28,Asian/ Pacific  Islander      ,10.0,0.38,0.27
+29,Asian/ Pacific  Islander      ,20.0,0.36,0.27
+30,Asian/ Pacific  Islander      ,30.0,0.35,0.26
+31,Asian/ Pacific  Islander      ,40.0,0.33,0.26
+32,Asian/ Pacific  Islander      ,50.0,0.3,0.24
+33,Asian/ Pacific  Islander      ,60.0,0.26,0.22
+34,Asian/ Pacific  Islander      ,70.0,0.2,0.18
+35,Asian/ Pacific  Islander      ,80.0,0.12,0.13
+36,American Indian/  Alaska Native(a)     ,0.0,0.28,0.22
+37,American Indian/  Alaska Native(a)     ,10.0,0.27,0.22
+38,American Indian/  Alaska Native(a)     ,20.0,0.26,0.22
+39,American Indian/  Alaska Native(a)     ,30.0,0.25,0.22
+40,American Indian/  Alaska Native(a)     ,40.0,0.24,0.22
+41,American Indian/  Alaska Native(a)     ,50.0,0.23,0.21
+42,American Indian/  Alaska Native(a)     ,60.0,0.2,0.19
+43,American Indian/  Alaska Native(a)     ,70.0,0.16,0.15
+44,American Indian/  Alaska Native(a)     ,80.0,0.04,0.04
+45,Hispanic(b)        ,0.0,0.52,0.37
+46,Hispanic(b)        ,10.0,0.5,0.37
+47,Hispanic(b)        ,20.0,0.48,0.36
+48,Hispanic(b)        ,30.0,0.47,0.36
+49,Hispanic(b)        ,40.0,0.45,0.35
+50,Hispanic(b)        ,50.0,0.42,0.34
+51,Hispanic(b)        ,60.0,0.37,0.32
+52,Hispanic(b)        ,70.0,0.29,0.26
+53,Hispanic(b)        ,80.0,0.19,0.19
+54,,,,
+55,,,,
+56,,,,
+57," Devcan 6.7.5, April 2017, National Cancer Institute (https://surveillance.cancer.gov/devcan/).",,,
+58,"Source:  Incidence data are from the SEER 18 areas (San Francisco, Connecticut, Detroit, Hawaii, Iowa, New Mexico, Seattle, Utah, Atlanta,   San Jose-Monterey, Los Angeles, Alaska Native Registry, Rural Georgia, California excluding SF/SJM/LA, Kentucky, Louisiana, New Jersey,  and Georgia excluding ATL/RG). Mortality data are from the NCHS public use data file for the total US.",,,
+59,(a)  Underlying incidence and mortality data for American Indian/Alaska Native are based on the CHSDA(Contract Health Service Delivery Area) counties.,,,
+60,"(b)  Hispanic is not mutually exclusive from whites, blacks, Asian/Pacific Islanders, and American Indians/Alaska Natives.  Underlying incidence data for Hispanics are based on NHIA and exclude cases from the Alaska Native Registry.",,,
+61,#NAME?,,,
+62, A percent of 0.00 represents a value that is below 0.005.,,,
+63,,,,
+64,,,,
+65,Created by www.seer.cancer.gov/csr/1975_2014/download_csr_datafile.php/sect_03_table.12.csv on 05/16/2017 4:33 pm.,,,

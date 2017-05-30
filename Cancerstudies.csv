@@ -1,0 +1,8 @@
+Study,Place,Period covered,Study type,Age (years),Tumour type,No. of cases,ConfidenceInterval
+Inskip ,USA,1994,Case–control, ?18,Glioma,11,0.6
+Auvinen ,Finland,1996,Case–control,20–69,Glioma,119,1.5
+Lönn ,Sweden,2000,Case–control,20–69,Glioma,214,0.8 
+Christensen,Denmark ,2000,Case–control,20–69,Glioma,47,1.1
+Hepworth,UK,2000,Case–control,18-69,Glioma,508,0.9
+Schüz ,Germany ,2000,Case–control,30–59,Glioma,138,1
+Hardell ,Sweden,1997,Case–control,20-80,Glioma,281,1.4 
